@@ -1,6 +1,2 @@
-First. 
-Second.
-Third.
-Fourth.
-Fifth.
-Sixth.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
